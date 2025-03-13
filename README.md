@@ -2,6 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Prajwalxworkz)
 ![image](https://github.com/user-attachments/assets/3a8d9e3d-74e2-4b0b-8dcc-d6bd42f30466)
+![Creative Picture](assets/images/creative-picture.jpg)
 
 ## About Me
 
@@ -30,16 +31,8 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/prajwalkm07))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/prajwalkm07])
 
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/Prajwalxworkz/Prajwalxworkz/pull/123) in `Prajwalxworkz/Prajwalxworkz`
-2. 💪 Opened PR [#124](https://github.com/Prajwalxworkz/Prajwalxworkz/pull/124) in `Prajwalxworkz/Prajwalxworkz`
-3. 🗣 Commented on [#125](https://github.com/Prajwalxworkz/Prajwalxworkz/issues/125) in `Prajwalxworkz/Prajwalxworkz`
-<!--END_SECTION:activity-->
 
 ## Fun Facts
 
